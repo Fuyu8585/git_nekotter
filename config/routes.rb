@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
- root 'teets#index'
+ root 'tweets#index'
 end
